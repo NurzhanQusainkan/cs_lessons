@@ -1,0 +1,15 @@
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.csproj.AssemblyReference.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.AssemblyInfoInputs.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.AssemblyInfo.cs
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.csproj.CoreCompileInputs.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/bin/Debug/net6.0/hw_ex8
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/bin/Debug/net6.0/hw_ex8.deps.json
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/bin/Debug/net6.0/hw_ex8.runtimeconfig.json
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/bin/Debug/net6.0/hw_ex8.dll
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/bin/Debug/net6.0/hw_ex8.pdb
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.dll
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/refint/hw_ex8.dll
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.pdb
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/hw_ex8.genruntimeconfig.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex8/obj/Debug/net6.0/ref/hw_ex8.dll
