@@ -1,0 +1,15 @@
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.csproj.AssemblyReference.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.AssemblyInfoInputs.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.AssemblyInfo.cs
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.csproj.CoreCompileInputs.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/bin/Debug/net6.0/hw_ex6
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/bin/Debug/net6.0/hw_ex6.deps.json
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/bin/Debug/net6.0/hw_ex6.runtimeconfig.json
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/bin/Debug/net6.0/hw_ex6.dll
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/bin/Debug/net6.0/hw_ex6.pdb
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.dll
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/refint/hw_ex6.dll
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.pdb
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/hw_ex6.genruntimeconfig.cache
+/Users/qusainkan/Desktop/GeekBrains/с#/cs_hw1/hw_ex6/obj/Debug/net6.0/ref/hw_ex6.dll
